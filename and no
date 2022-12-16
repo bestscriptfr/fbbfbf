@@ -1,7 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/topillesrevenge/Streamable-Silent/main/Main"))()
 DaHoodSettings.Prediction = 0.123
 Aiming.TargetPart = {"HumanoidRootPart"}
-Aiming.FOV = 50
+Aiming.FOV = 100
 Aiming.FOVSides = 25
 Aiming.HitChance = 100
 Aiming.ShowFOV = false 
